@@ -1,0 +1,7 @@
+.fade{
+    opacity: 0;
+    transition: all .3s ease;
+}
+.item{
+    transition: all .3s ease-in-out;
+}
